@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, You can call me Nelson_Kana()</h1>
-<h3 align="center">I'm a compassionate software engineer from Canada who thrives on tackling and solving the challenges faced by others through my programming skills.</h3>
+<h3 align="center">I'm a compassionate software engineer from Canada who loves tackling and solving the problems faced by other humans through my engineering skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelsonkana&label=Profile%20views&color=0e75b6&style=flat" alt="nelsonkana" /> </p>
 
