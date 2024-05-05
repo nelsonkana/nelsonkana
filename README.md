@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nelsonkana" target="blank"><img src="https://img.shields.io/twitter/follow/nelsonkana?logo=twitter&style=for-the-badge" alt="nelsonkana" /></a> </p>
 
-- 🔭 I’m currently working on [Domivice](https://github.com/domivice)
+- 🔭 My current side hustle is [Domivice](https://github.com/domivice)
 
 - 🌱 I’m currently learning **NodeJs & Python**
 
